@@ -5,7 +5,7 @@
  * @copyright   Copyright (c) 2006-2020 Webligo Developments
  * @license     http://www.socialengine.com/license/
  */
-
+// Hello
 // Check version
 if (version_compare(phpversion(), '7.2', '<')) {
     printf('PHP 7.2 is required, you have %s', phpversion());
